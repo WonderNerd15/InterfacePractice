@@ -1,0 +1,15 @@
+/home/gaby/Downloads/InterfacePractice/bin/Debug/net7.0/InterfacePractice
+/home/gaby/Downloads/InterfacePractice/bin/Debug/net7.0/InterfacePractice.deps.json
+/home/gaby/Downloads/InterfacePractice/bin/Debug/net7.0/InterfacePractice.runtimeconfig.json
+/home/gaby/Downloads/InterfacePractice/bin/Debug/net7.0/InterfacePractice.dll
+/home/gaby/Downloads/InterfacePractice/bin/Debug/net7.0/InterfacePractice.pdb
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/InterfacePractice.csproj.AssemblyReference.cache
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/InterfacePractice.AssemblyInfoInputs.cache
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/InterfacePractice.AssemblyInfo.cs
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/InterfacePractice.csproj.CoreCompileInputs.cache
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/InterfacePractice.dll
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/refint/InterfacePractice.dll
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/InterfacePractice.pdb
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/InterfacePractice.genruntimeconfig.cache
+/home/gaby/Downloads/InterfacePractice/obj/Debug/net7.0/ref/InterfacePractice.dll
